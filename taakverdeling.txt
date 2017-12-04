@@ -1,0 +1,18 @@
+Taakverdeling
+
+Financial 	-> Martijn
+	BitCoin
+Transport 	-> Michael
+	Live OV
+	Open Data
+Energie   	-> Koen
+	Tennet
+	Aliander
+	Kapsarc
+Overheid	-> Hendrik
+	data.overheid.nl
+	opendata.rwd.nl
+	etc.
+Social Media	-> Erik
+	Twitter API
+	News API
