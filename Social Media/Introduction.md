@@ -1,6 +1,5 @@
 # Introduction
-> The media is really, the word, one of the greatest of all terms I've come up with, is 'fake,'. I guess other people have used it perhaps over the years but I've never noticed it. And it's a shame. And they really hurt the country. Because they take away the spirit of the country.
-Donald Trump
+> "The media is really, the word, one of the greatest of all terms I've come up with, is 'fake,'." ... "I guess other people have used it perhaps over the years but I've never noticed it. And it's a shame. And they really hurt the country. Because they take away the spirit of the country." - Donald Trump (2017)
 
 Setting aside the claim of Donald Trump inventing the term Fake News, the subject is becoming very relevant today. A research has found that 49% of social media users spots fake news at least once a day. The rise of Fake News is a fact. However, the statistics are hard to find since social media networks contain an enormous amount of data. This is a perfect example of a Big Data problem.
 
@@ -19,6 +18,9 @@ Correlations are always fun to find. For example the correlation between an even
 
 ### Network maps
 Social Media have a lot of Users. It might be possible to find some fun statistics of these users. Some patterns of a nice graphic could be created to show certain connections between groups of people for instance.
+
+### Free Choice
+Can you come up with a fun tool or graphic to show which was created from big data on Social Media? Creative Ideas are being rewarded.
 
 ## Sources
 Social media offers a lot of sources. Below a list of sources for API's or news networks that provide Open Data:
