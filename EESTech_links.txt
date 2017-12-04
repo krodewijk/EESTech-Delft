@@ -1,0 +1,12 @@
+http://bigdata.uiowa.edu/Datasets.pdf
+https://www.cbs.nl/nl-nl/onze-diensten/open-data/databank-cbs-statline-als-open-data
+https://bigdatahackathon.wordpress.com/ideas-team-formation/
+Flow of money in Bitcoin
+https://geneva.impacthub.net/event/big-data-techpreneurs-for-good-hackathon/
+https://blogs.technet.microsoft.com/cansql/2015/03/12/microsoft-big-data-hackathon-resources/
+http://data.europa.eu/euodp/en/data/
+https://data.overheid.nl/
+https://trends.google.com/trends/explore
+https://www.crowdflower.com/data-for-everyone-why-were-creating-a-library-of-open-data/
+https://opendata.rdw.nl/
+https://github.com/caesar0301/awesome-public-datasets
